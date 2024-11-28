@@ -7,7 +7,7 @@ nombre=Daniel
 
 #Variables locales
 echo "Ejecuto primer script"
-echo "Opción: $opcion y Nombre: $nombre"
+echo "Opción: $opcion y Nombre: $nombre, entorno: $COURSE_NAME"
 
 # Exportar la variable nombre para que este disponible a los demás procesos
 export nombre
