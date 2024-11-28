@@ -2,8 +2,7 @@
 #Programa para ejemplificar el paso de argumentos como un input
 #Autor: Daniel Merchan
 
-#En Bash, los argumentos son los valores que se pasan a un script o a un comando 
-#al momento de ejecutarlo. Similar al input de python.
+#En Bash, los argumentos son los valores que se pasan a un script o a un comando al momento de ejecutarlo. 
 #Estos valores permiten que el script o comando realice 
 #acciones específicas en función de la entrada proporcionada por el usuario.
 
